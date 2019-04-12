@@ -1,7 +1,7 @@
 # test
 修改一
 
-修改二：添加分支dev
+修改二：git branch <new branch>
 
 修改三：merge --no-ff
 
