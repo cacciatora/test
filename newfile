@@ -1,7 +1,3 @@
 this is a new txt file.
 file changed.
-<<<<<<< HEAD
-add aaa.
-=======
-add bbb.
->>>>>>> master
+add aaa bbb.
