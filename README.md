@@ -1,6 +1,9 @@
 # test
-修改一: git init <project name>
-修改二：git branch <new branchname>
-修改三：merge --no-ff
-修改四：someone else commit
-修改五：git tag -a version -m "comments"
+command 1: git init <project name>
+command 2：git branch <new branchname>
+command 3：merge --no-ff
+command 4：someone else commit
+command 5：git tag -a version -m "comments"
+        or: git tage version -m "comments"
+command 6: git push origin --tags
+	or: git push origin <version>
