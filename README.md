@@ -7,3 +7,4 @@ command 5：git tag -a version -m "comments"
         or: git tage version -m "comments"
 command 6: git push origin --tags
 	or: git push origin <version>
+command 7 git rebase -i <commit id>
